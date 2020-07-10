@@ -42,12 +42,12 @@ std::string ART[29] {
 
     "Assets/Art/Buildings/skyscraper.png"
 };
+// Unable to find licenses for sound effects so these are not present, game works anyway
 std::string SOUNDS[4] {
     "Assets/Sounds/Cars/engine-loop.ogg",
     "Assets/Sounds/Cars/skid-loop.ogg",
     "Assets/Sounds/Cars/crash1.ogg",
     "Assets/Sounds/Cars/crash2.ogg"
-
 };
 std::string FONTS[1] {
     "Assets/Fonts/main.ttf"
